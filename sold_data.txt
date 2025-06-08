@@ -1,0 +1,6 @@
+VIN: CAR005, Customer ID: CUST002, Sales Person ID: SP001, Payment Type: Loan, Down Payment: 800000.00
+VIN: CAR001, Customer ID: CUST003, Sales Person ID: SP005, Payment Type: Loan, Down Payment: 600000.00
+VIN: CAR005, Customer ID: CUST004, Sales Person ID: SP005, Payment Type: Loan, Down Payment: 600000.00
+VIN: CAR011, Customer ID: CUST004, Sales Person ID: SP005, Payment Type: Loan, Down Payment: 600000.00
+VIN: CAR010, Customer ID: CUST004, Sales Person ID: SP005, Payment Type: Loan, Down Payment: 700000.00
+VIN: CAR007, Customer ID: CUST004, Sales Person ID: SP002, Payment Type: Loan, Down Payment: 260000.00
